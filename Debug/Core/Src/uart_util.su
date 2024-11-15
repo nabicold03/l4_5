@@ -1,0 +1,5 @@
+uart_util.c:10:6:HAL_UART_RxCpltCallback	16	static
+uart_util.c:20:16:read_buffer	16	static
+uart_util.c:29:13:flush_buffer	4	static
+uart_util.c:33:13:request_time_uart_helper	32	static
+uart_util.c:91:6:request_time_uart	48	static

@@ -1,0 +1,6 @@
+main_fsm.c:16:6:is_alarm	8	static
+main_fsm.c:23:6:display_ta_al	40	static
+main_fsm.c:34:6:clear_header	24	static
+main_fsm.c:39:6:updateTime_ta_al	24	static
+main_fsm.c:49:6:leap_year	16	static
+main_fsm.c:59:6:main_fsm	40	static
